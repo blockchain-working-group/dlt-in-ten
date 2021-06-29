@@ -13,3 +13,5 @@ University of Nicosia courses Master's degree in Digital Currency program https:
 Coursera Mastering Web3 with Waves https://www.coursera.org/learn/mastering-web3-waves?isNewUser=true
 
 https://theblockchaintest.com/
+
+Tom: https://github.com/tomplunkett/Understanding-Crypto
