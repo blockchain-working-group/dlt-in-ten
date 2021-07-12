@@ -7,6 +7,15 @@
 ## Concepts &amp; Articles
 https://www.evernym.com/blog/gentle-introduction-verifiable-credentials/
 
+JSON LD: https://json-ld.org/
+
 ## Tutorials
 
 ## Examples
+
+MSFT Azure AD VC: https://github.com/Azure-Samples/active-directory-verifiable-credentials
+MSFT: https://didproject.azurewebsites.net/docs/verify-credential-in-web.html
+
+## Other
+
+Flavors of VCs: https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf
