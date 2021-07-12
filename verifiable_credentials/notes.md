@@ -14,6 +14,7 @@ JSON LD: https://json-ld.org/
 ## Examples
 
 MSFT Azure AD VC: https://github.com/Azure-Samples/active-directory-verifiable-credentials
+
 MSFT: https://didproject.azurewebsites.net/docs/verify-credential-in-web.html
 
 ## Other
