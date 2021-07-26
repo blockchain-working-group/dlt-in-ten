@@ -11,6 +11,8 @@ JSON LD: https://json-ld.org/
 
 ## Tutorials
 
+
+
 ## Examples
 
 MSFT Azure AD VC: https://github.com/Azure-Samples/active-directory-verifiable-credentials
@@ -20,3 +22,9 @@ MSFT: https://didproject.azurewebsites.net/docs/verify-credential-in-web.html
 ## Other
 
 Flavors of VCs: https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf
+
+https://docs.google.com/document/d/1CdaEi-jo4QTD3eOZGv63S_kfBIRTNHmwCv0gpIDB0cY/edit
+
+https://docs.google.com/document/d/1oyn78rn1SGHJJf5hV5sEwdODW1fnVrXlu7IAmgdfLR0/edit
+
+Decentralized Id: https://decentralized-id.com/
