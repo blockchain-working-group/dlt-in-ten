@@ -15,9 +15,17 @@ JSON LD: https://json-ld.org/
 
 ## Examples
 
+### MSFT
+
 MSFT Azure AD VC: https://github.com/Azure-Samples/active-directory-verifiable-credentials
 
 MSFT: https://didproject.azurewebsites.net/docs/verify-credential-in-web.html
+
+https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555
+
+https://identity.foundation/ion/install-guide/
+
+
 
 ## Other
 
@@ -28,3 +36,5 @@ https://docs.google.com/document/d/1CdaEi-jo4QTD3eOZGv63S_kfBIRTNHmwCv0gpIDB0cY/
 https://docs.google.com/document/d/1oyn78rn1SGHJJf5hV5sEwdODW1fnVrXlu7IAmgdfLR0/edit
 
 Decentralized Id: https://decentralized-id.com/
+
+Veramo: https://veramo.io/docs/basics/introduction
